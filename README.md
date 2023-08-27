@@ -1,5 +1,5 @@
 # Resources for (AI) Product Managers.
-Updating with resources for (AI) product management.
+Updating with resources for (AI) product management I've found useful. 🫡
 
 
 ## Courses 
