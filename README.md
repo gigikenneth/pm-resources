@@ -63,6 +63,8 @@ Updating with resources for (AI) product management I've found useful. 🫡
 
 
 ## Newsletters
+- [AI Weekly](https://aiweekly.co/)
+  > Discover what AI experts are reading and sharing right now, with ranked context for product leaders.
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/)
   > A weekly advice column about building products, driving growth, and accelerating your career.
 - [Marily Nika’s AI Product Newsletter](https://marily.substack.com/)
