@@ -48,6 +48,8 @@ Updating with resources for (AI) product management I've found useful. 🫡
 - [The role of an AI product manager by Hiroki Nakamura](https://www.mindtheproduct.com/the-role-of-an-ai-product-manager/)
   > In this ProductTank Tokyo talk, Hiroki Nakamura examines an AI Product Manager’s tasks and how AI is transforming the product management industry. 
 - [BUILDING A USER-CENTERED HEALTHCARE SOLUTION WITH LEAN STARTUP: THE LUNNA EXPERIENCE](https://www.thaisafernandes.com/lean-startup)
+- [How to Conduct User Interviews: A Step-by-Step Guide](https://pulsecorp.co/blog/how-to-conduct-user-interviews-a-step-by-step-guide/)
+  > A five-step guide to running user interviews: setting research goals, recruiting participants, writing an interview guide, moderating sessions and synthesizing findings, plus common mistakes to avoid.
 
 
 ## Videos
